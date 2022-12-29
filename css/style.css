@@ -187,8 +187,20 @@ body{
 .subscribed a:hover{
 	background: rgb(145 145 145 / 8%);
 }
-.video-page{
+
+.banner-section{
+	margin-bottom:20px
+	
 }
+
+.banner-section img{
+	width:100%;
+	border-radius:5px;
+	
+}
+
+
+
 .video .thumbnail{
      width:100%;
      border-radius:5px;
